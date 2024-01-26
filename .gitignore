@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Ignore all files without extension
+*
+!*.*
+!*/
+
+# Others
+.vscode
